@@ -1,6 +1,7 @@
 ### Hi, I'm Darsh 👋
 ### Computer Science @Temple University
-### Awaiken Hacks 2023 Winner https://devpost.com/darshp312
+<h1>Awaiken Hacks 2023 Winner</h1>https://devpost.com/darshp312
+
 ### Web Dev Intern @Human Computing Interaction lab
 ### Graduating in May 2024
 
