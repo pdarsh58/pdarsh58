@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Darsh 👋
 
-<!--
-**pdarsh58/pdarsh58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Computer Science @Temple University, Philadelphia, PA
+### Web Dev Intern @Human Computing Interaction lab
+### Graduating in May 2024
+### Seeking Entry Level SWE or related roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
