@@ -1,7 +1,7 @@
 ### Hi, I'm Darsh 👋
-<h3>🎉 Awaiken Hacks 2023 Winner</h3>
-<h3>👨‍💻Web Dev Intern @Human Computing Interaction lab</h3>
-<h3>⚡︎ Seeking Entry Level SWE 2024 or related roles ⚡︎</h3>
+#### 🎉 Awaiken Hacks 2023 Winner
+#### 👨‍💻Web Dev Intern @Human Computing Interaction lab
+#### ⚡︎ Seeking Entry Level SWE 2024 or related roles ⚡︎
 
 Contact me: http://linkedin.com/in/pdarsh58/
 
