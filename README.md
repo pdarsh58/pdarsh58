@@ -11,8 +11,6 @@
 Contact me: http://linkedin.com/in/pdarsh58/
 
 
-Devpost: https://devpost.com/darshp312
-
 
 
 
