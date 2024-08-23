@@ -1,6 +1,6 @@
 # Hi, I'm Darsh 👋
- *  Software Developer👨‍💻 @ Naval Surface Warfare Center Philadelphia Division (NSWCPD) 🏢
- *  Computer Science, BSc🎓 Temple University '24 🦉
+ *  Software Developer👨‍💻 @ Naval Surface Warfare Center (NSWC) 🏢
+ *  Computer Science, BSc🎓 Temple University '24🦉
  *  Awaiken Hacks 2023 Winner🎉
 
 
