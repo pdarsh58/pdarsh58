@@ -1,7 +1,7 @@
 # Hi, I'm Darsh 👋
+ * 👨‍💻 Software Developer @ Naval Surface Warfare Center (NSWC), Philadelphia
  * 🎉 Awaiken Hacks 2023 Winner
  * 👨‍💻 Developer Intern @Human Computing Interaction Lab
- * ⚡︎ Seeking Entry Level Software Engineer/Tech Consultant 2024 or related roles ⚡︎
 
 ### Don't hesitate to reach out: http://linkedin.com/in/pdarsh58/
 
