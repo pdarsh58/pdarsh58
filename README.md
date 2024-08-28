@@ -1,6 +1,6 @@
-# hi, i'm darsh 👋
- *  software dev👨‍💻 @ Naval Surface Warfare Center (NSWC) 🏢
- *  comp sci, BSc🎓 Temple University '24🦉
+# Hi, I'm darsh 👋
+ *  Software Dev👨‍💻 @ Naval Surface Warfare Center (NSWC) 🏢
+ *  Comp Sci, BSc🎓 Temple University '24🦉
  *  awaiken hacks 2023 Winner🎉
 
 
