@@ -1,11 +1,11 @@
-# hi, I'm darsh 👋
+# hi, i'm darsh 👋
  *  Software Developer👨‍💻 @ Naval Surface Warfare Center (NSWC) 🏢
  *  Comp Sci, BSc🎓 Temple University '24🦉
  *  Awaiken Hacks 2023 Winner🎉
     - Demo: https://youtu.be/4MEn7zRQkTU
     - Devpost: https://devpost.com/darshp312 <br><br>
 
-## Languages, Frameworks, Dev Tools, Testing
+## languages, frameworks, dev tools, testing tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,typescript,javascript,cs,cpp,r,c&perline=20)](https://skillicons.dev)
 
