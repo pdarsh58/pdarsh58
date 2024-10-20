@@ -17,9 +17,9 @@
 
 ### always wiiling to help out. just shoot me a msg: 
 - Discord darsh312
-- http://linkedin.com/in/pdarsh58/
+- http://linkedin.com/in/pdarsh58/ <br><br>
 
-# checkout my best work here:
+<h2>checkout my best work below</h2> 
 
 
 
