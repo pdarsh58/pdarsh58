@@ -13,7 +13,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,git,kali,docker,npm,linux,anaconda,kubernetes,figma&perline=20)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,dynamodb,mysql&perline=20)](https://skillicons.dev)
 
 
 
