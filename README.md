@@ -13,9 +13,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,git,kali,docker,npm,linux,anaconda,kubernetes,figma&perline=20)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,dynamodb,mysql&perline=20)](https://skillicons.dev)
-
-
+[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,dynamodb,mysql&perline=20)](https://skillicons.dev) <br><br>
 
 ### don't hesitate to reach out: http://linkedin.com/in/pdarsh58/
 
