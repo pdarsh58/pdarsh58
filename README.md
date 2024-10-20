@@ -9,7 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,typescript,javascript,cs,cpp,r,c&perline=20)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,react,nextjs,nodejs,expressjs,tailwindcss,fastapi,flask&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,react,nextjs,django,nodejs,expressjs,tailwindcss,fastapi,flask&perline=20)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,git,kali,docker,npm,linux,apple,windows&perline=20)](https://skillicons.dev)
 
