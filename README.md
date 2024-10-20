@@ -2,8 +2,8 @@
  *  Software Developer👨‍💻 @ Naval Surface Warfare Center Philadelphia 🏢
  *  Comp Sci, BSc🎓 Temple University '24🦉
  *  Awaiken Hacks 2023 Winner🎉
-    - Demo: https://youtu.be/4MEn7zRQkTU
-    - Devpost: https://devpost.com/darshp312 <br><br>
+    - devpost: https://devpost.com/darshp312
+    - demo: https://youtu.be/4MEn7zRQkTU <br><br>
 
 ## languages, frameworks, dev tools, testing tools
 
