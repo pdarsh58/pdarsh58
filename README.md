@@ -5,10 +5,12 @@
        - Demo: https://youtu.be/4MEn7zRQkTU
        - Devpost: https://devpost.com/darshp312
 
-## Langauges, Frameworks, & Tools
+## Frameworks
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,react,nextjs,tailwindcss,fastapi,flask&perline=7)](https://skillicons.dev)
 
-Frameworks: [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,react,nextjs,nodejs,tailwindcss,npm,discordjs,vscode,raspberrypi,linux,apple,windows,flask,figma,mysql&perline=7)](https://skillicons.dev)
 
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=python,java,typescript,javascript,cs,cpp,r,c&perline=10)](https://skillicons.dev)
 
 ### don't hesitate to reach out: http://linkedin.com/in/pdarsh58/
 
