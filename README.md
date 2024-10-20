@@ -15,9 +15,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,dynamodb,mysql&perline=20)](https://skillicons.dev) <br><br>
 
-### don't hesitate to reach out: http://linkedin.com/in/pdarsh58/
+### always wiiling to help out. just shoot me a msg: 
+- Discord darsh312
+- http://linkedin.com/in/pdarsh58/
 
-
+# checkout my best work here:
 
 
 
