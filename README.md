@@ -1,4 +1,4 @@
-# hi, i'm darsh 👋
+# 👋 i'm darsh 
  *  Software Developer👨‍💻 @ Naval Surface Warfare Center Philadelphia 🏢
  *  Comp Sci, BSc🎓 Temple University '24🦉
  *  Awaiken Hacks 2023 Winner🎉
