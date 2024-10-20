@@ -14,6 +14,13 @@
 ## Dev Tools
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,git,kali,docker,npm,linux,apple,windows&perline=20)](https://skillicons.dev)
 
+## Testing
+[![My Skills](https://skillicons.dev/icons?i=jest,selenium,postman&perline=20)](https://skillicons.dev)
+
+## Other
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,&perline=20)](https://skillicons.dev)
+
+
 ### don't hesitate to reach out: http://linkedin.com/in/pdarsh58/
 
 
