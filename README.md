@@ -7,7 +7,7 @@
 
 
 ### always wiiling to help out. just shoot me a msg: 
-- Discord darsh312
+- Discord @darshp312
 - http://linkedin.com/in/pdarsh58/ <br><br>
 
 <h2>checkout my best work below</h2> 
