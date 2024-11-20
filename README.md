@@ -1,9 +1,10 @@
 # 👋 i'm darsh 
- *  Software Developer👨‍💻 @ Naval Surface Warfare Center Philadelphia 
- *  Comp Sci, BSc🎓 Temple University '24🦉
+ *  Software Developer👨‍💻 @ Naval Surface Warfare Center Philadelphia
  *  Awaiken Hacks 2023 Winner🎉
     - devpost: https://devpost.com/darshp312
-    - demo: https://youtu.be/4MEn7zRQkTU <br><br>
+    - demo: https://youtu.be/4MEn7zRQkTU 
+ *  Comp Sci, BSc🎓 Temple University '24🦉
+
 
 
 ### always willing to help out with projects. just shoot me a msg: 
