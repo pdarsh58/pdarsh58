@@ -1,5 +1,5 @@
 # 👋 i'm darsh 
- *  Software Developer👨‍💻 @ Naval Surface Warfare Center Philadelphia
+ *  Software Developer👨‍💻 @ US Navy - Naval Surface Warfare Center Philadelphia
  *  Awaiken Hacks 2023 Winner🎉
     - devpost: https://devpost.com/darshp312
     - demo: https://youtu.be/4MEn7zRQkTU 
