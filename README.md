@@ -1,5 +1,6 @@
 # 👋 i'm darsh 
- *  Software Developer👨‍💻 @ US Navy - Naval Surface Warfare Center Philadelphia
+ *  Software Developer👨‍💻 @ US Navy
+ *  👀 I’m interested in artificial intelligence, machine learning, coding and robotics
  *  Awaiken Hacks 2023 Winner🎉
     - devpost: https://devpost.com/darshp312
     - demo: https://youtu.be/4MEn7zRQkTU 
