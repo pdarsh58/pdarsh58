@@ -10,7 +10,7 @@
 
 ### always willing to help out with projects. just shoot me a msg: 
 - Discord @darshp312
-- http://linkedin.com/in/pdarsh58/ <br><br>
+- http://linkedin.com/in/pdarsh58/
 
 
 
