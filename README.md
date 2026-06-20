@@ -1,6 +1,6 @@
 # 👋 i'm darsh 
  *  Software Developer👨‍💻 @ US Navy
- *  👀 I’m interested in artificial intelligence, machine learning, coding and robotics
+ *  👀 I’m interested in artificial intelligence, machine learning, and coding
  *  Awaiken Hacks 2023 Winner🎉
     - devpost: https://devpost.com/darshp312
     - demo: https://youtu.be/4MEn7zRQkTU 
