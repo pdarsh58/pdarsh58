@@ -9,7 +9,7 @@
 
 
 ### always willing to help out with projects. just shoot me a msg: 
-- Discord @darshp312
+- Discord @darshp58
 - http://linkedin.com/in/pdarsh58/
 
 
